@@ -34,7 +34,7 @@ The agent is augmented with external capabilities to perform comprehensive resea
 1.  **Clone the Repository:**
     ```bash
     git clone [Your Repository URL]
-    cd [Your Repository Name]
+    cd Autonomous Agentic RAG Research Assistant 
     ```
 2.  **Install Dependencies:**
     ```bash
