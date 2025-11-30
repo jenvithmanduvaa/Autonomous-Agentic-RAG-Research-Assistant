@@ -33,7 +33,7 @@ The agent is augmented with external capabilities to perform comprehensive resea
 ## ⚙️ Installation & Setup
 1.  **Clone the Repository:**
     ```bash
-    git clone [Your Repository URL]
+    git clone https://github.com/jenvithmanduvaa/Autonomous-Agentic-RAG-Research-Assistant
     cd Autonomous Agentic RAG Research Assistant 
     ```
 2.  **Install Dependencies:**
